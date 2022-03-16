@@ -39,7 +39,7 @@ $ ./start.sh
 
 Open port *http://127.0.0.1:5000/ * to interact with the application
 
-Known Bugs
+# Known Bugs
 There are known bugs.
 
 Technologies Used
