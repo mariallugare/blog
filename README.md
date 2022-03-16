@@ -45,9 +45,15 @@ There are known bugs.
 # Technologies Used
 
 PYTHON
+
 FLASK
+
 HTML
+
 CSS
+
 BOOTSTRAP
+
 POSTGRESQL
+
 MARKDOWN for the README.md file
