@@ -7,6 +7,7 @@ By: Marial Lugare
 # Description of the application
 The application enables users to view blogs and comment on them.For writers,they have to sign up first to be able to write and update blogs.Writers can also delete comments made on their blogs if they don't please them.
 
+
 Installation Requirements
 Clone this repository using the link from the clone button
 Open the downloaded folder in a text editor of your preference
