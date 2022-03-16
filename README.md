@@ -57,3 +57,11 @@ BOOTSTRAP
 POSTGRESQL
 
 MARKDOWN for the README.md file
+My contacts
+Feel free to contact me for assistance if need be or to offer suggestions for improvements.
+
+Email me:alfred.kahenya@student.moringaschool.com
+My phone number:0740365281
+License
+License under MIT License
+Copyright (c) 2022 Marial Lugare
