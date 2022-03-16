@@ -1,7 +1,7 @@
 # blog
 A personal blog flask python application where users sign up, start viewing posted blogs, comment and even see random quotes on the homepage.
-BLOGGERS SITE
-By: Alfred Warui
+Marify blog
+By: Marial Lugare
 Description of the application
 The application enables users to view blogs and comment on them.For writers,they have to sign up first to be able to write and update blogs.Writers can also delete comments made on their blogs if they don't please them.
 
