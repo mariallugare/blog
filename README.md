@@ -57,7 +57,7 @@ BOOTSTRAP
 POSTGRESQL
 
 MARKDOWN for the README.md file
-My contacts
+# My contacts
 Feel free to contact me for assistance if need be or to offer suggestions for improvements.
 
 Email me:alfred.kahenya@student.moringaschool.com
